@@ -1,22 +1,30 @@
-# Hi there 👋 I'm Krishna Agarwal
+Hi there 👋 I'm Krishna Agarwal
 
-I'm a **Java enthusiast** currently interning virtually with **CodSoft** (Aug–Sep 2025), working on real-world software projects and refining my development skills.
+I’m a Java developer passionate about building efficient, scalable applications and continuously improving my problem-solving skills. I worked on real-world projects and strengthened my development fundamentals.
 
-📚 **Skills & Interests**
-- Java, Spring Boot, REST APIs
-- Version control with Git & GitHub
-- Problem-solving via algorithm practice (e.g. LeetCode)
-- Learning backend best practices and clean code
+📚 Skills & Interests
 
-💡 **What I’m working on**
-- Enhancing my internship portfolio with project-based challenges
-- Contributing to open-source Java libraries
+Java
 
-✨ **Highlights**
-- Successfully completed Java Programming internship at CodSoft
-- Internship offer letter & certification achieved
-- Actively learning and solving coding problems daily
+Git & GitHub (version control, collaboration)
+
+Data Structures & Algorithms (LeetCode, practice-driven learning)
+
+
+💡 Current Focus
+
+Expanding my portfolio with Java
+
+Actively learning Flutter for cross-platform app development
+
+Consistently improving my DSA skills through daily practice
+
+✨ Highlights
+
+Built multiple project-based solutions 
+
+Actively contributing to personal projects and exploring open-source opportunities
 
 📫 **Get in touch**
 - Email: agrkrishna123@gmail.com
-- LinkedIn: https://www.linkedin.com/in/krishna-agarwal-9b2a06367?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+- LinkedIn: https://www.linkedin.com/in/krishna-agarwal-9b2a06367
